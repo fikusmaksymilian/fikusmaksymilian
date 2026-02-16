@@ -9,7 +9,7 @@
     <img src="./TrioWebLogo.png" alt="TrioWeb Logo" width="150" style="border-radius: 15px;">
   </a>
   
-  <h2 style="border-bottom: none;">🚀 Founder of <a href="https://trioweb.pl" target="_blank" style="text-decoration: none; color: #0078D7;">TrioWeb</a></h2>
+  <h2 style="border-bottom: none;">🚀 Co-Founder of <a href="https://trioweb.pl" target="_blank" style="text-decoration: none; color: #0078D7;">TrioWeb</a></h2>
   
   <p>
     <b>TrioWeb</b> is my software development agency. We specialize in building:<br>

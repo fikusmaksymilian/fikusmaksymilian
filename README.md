@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi, I'm Maksymilian! 👋</h1>
-  <p>Full Stack Developer | Freelancer | Student</p>
+  <p>Full Stack Developer | Freelancer | Cybersecurity Student</p>
   
   <br />
 

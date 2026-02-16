@@ -55,17 +55,6 @@ Below are the technologies I work with daily in personal projects and at TrioWeb
 </div>
 
 <br />
-
-### 📊 My GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/fikusmaksymilian">
-    <img src="https://github-readme-stats.vercel.app/api?username=fikusmaksymilian&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Maksymilian's Github Stats" />
-  </a>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikusmaksymilian&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top Languages" />
-</div>
-
 <div align="center">
   <br />
   <h3>📫 Contact Me</h3>

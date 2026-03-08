@@ -6,7 +6,7 @@
   <br />
 
   <a href="https://trioweb.pl" target="_blank">
-    <img src="./TrioWebLogo.png" alt="TrioWeb Logo" width="150" style="border-radius: 15px;">
+    <img src="./favicon.png" alt="TrioWeb Logo" width="150" style="border-radius: 15px;">
   </a>
   
   <h2 style="border-bottom: none;">🚀 Co-Founder of <a href="https://trioweb.pl" target="_blank" style="text-decoration: none; color: #0078D7;">TrioWeb</a></h2>
